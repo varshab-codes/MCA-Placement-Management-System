@@ -2,7 +2,7 @@
 The MCA Placement Management System is a database that manages the full campus placement process for MCA students — from student and company registration through applications, interviews, and final job offers. It tracks which companies visit, which students apply to which drives, and how each application progresses to its outcome.
 
  Entities
-
+ 
 * **STUDENT**
 * **PLACEMENT_DRIVE**
 * **COMPANY**
@@ -48,3 +48,5 @@ The objective of this ER model is to represent the relationships between student
 ER Diagram
 
 The ER diagram represents all entities, their attributes, primary keys, foreign keys, relationships, and cardinalities of the MCA Placement Management System.
+
+
